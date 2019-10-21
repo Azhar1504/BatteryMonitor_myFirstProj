@@ -20,6 +20,7 @@ namespace BatteryMonitor
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
+            //testing commit to github directly
         }
 
         private void Form1_Load(object sender, EventArgs e)
